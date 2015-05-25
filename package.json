@@ -1,6 +1,6 @@
 {
   "name": "worksmith_example_module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An example for a worksmith task collection package for nodejs",
   "main": "index.js",
   "scripts": {
